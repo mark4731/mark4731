@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm MARK</h1>
 <h3 align="center">A passionate website developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://share.google/images/71eiGF7b1zOWqpUOO">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mark&label=Profile%20views&color=0e75b6&style=flat" alt="mark" /> </p>
+<p align="left"> <img src="https://sl.bing.net/bs4Y5QNj6qq" alt="mark" /> </p>
 
 - 🌱 I’m currently learning **ITI COPA**
 
